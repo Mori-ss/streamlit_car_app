@@ -8,7 +8,7 @@ import numpy as np
 ### reading dataset(csv file) from local directory
 
 # path to cars datasets
-url = "C:/Users/ssunk/PycharmProjects/PracticeForDS/car_app/Cars Datasets 2025.csv"
+url = "data/Cars Datasets 2025.csv"
 
 # for loading dates
 @st.cache_data
